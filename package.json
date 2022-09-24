@@ -1,0 +1,15 @@
+{
+  "name": "vue-reactive-firestore",
+  "version": "1.0.0",
+  "description": "Use computed or regular firestore references to automatically create typed firestore onSnapshot reactive ref variables.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dan@nuzzlet.com",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase": "^9.10.0",
+    "vue": "^3.2.39"
+  }
+}
